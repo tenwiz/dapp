@@ -39,7 +39,7 @@ class App extends Component {
                 <p className="App-intro">
                     Message Application in Ethereum and React
                 </p>
-                <div className="movie-table">
+                <div className="thread-table">
                     <ShowMessages
                         threads={this.state.threads}
                         send={this.handleMessaging}

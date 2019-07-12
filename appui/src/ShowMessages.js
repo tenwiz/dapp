@@ -19,7 +19,7 @@ export class ShowMessages extends Component {
 
         return (
             <div>
-                <h3> Movies</h3>
+                <h3> Message Threads </h3>
                 <hr />
                 <table>
                     <tbody>
